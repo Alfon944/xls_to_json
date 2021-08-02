@@ -1,1 +1,2 @@
-# aplicacion por consola para transformar archivos xls. en JSON mediante Python
+# Transformardor de .xls a JSON
+## Aplicacion por consola para transformar archivos xls. en JSON mediante Python. Se especifica ruta de entrada y genera automàticamente el fichero JSON en la propia ruta.

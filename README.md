@@ -1,0 +1,1 @@
+# aplicacion por consola para transformar archivos xls. en JSON mediante Python
